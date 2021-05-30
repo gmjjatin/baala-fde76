@@ -47,33 +47,38 @@ sections:
           and DPA](http://bit.ly/2YJwlyt).
       - question: Rapid-fire questions
         answer: >
-          Q: Why is Baala incense sticks so beautiful?  
+          Q: Why is Baala incense sticks so beautiful?
 
 
           A: We create them with heart and intellect.
 
 
-          Q: Why did you build Baala?  
 
 
-          A: For a better world. Plus, we love the Indian culture and
-          religion.  
+          Q: Why did you build Baala?
 
 
-          Q: How many people work at Baala?  
+          A: For a better world. Plus, we love the Indian culture and religion.
+
+
+
+
+          Q: How many people work at Baala?
 
 
           A: Not a lot! We’re a small, bootstrapped team of eight human beings.
-          Baala might be a robot, though.  
+          Baala might be a robot, though.
 
 
-          Q: Why is Baala based in New Delhi City?  
 
 
-          A: Have you been here? It’s beaaautiful!  
+          Q: Why is Baala based in New Delhi City?
 
 
-          Q: What’s the meaning of life?  
+          A: Have you been here? It’s beaaautiful!
+
+
+          Q: What’s the meaning of life?
 
 
           A: We’re not quite sure. But building useful products with people we
