@@ -11,10 +11,8 @@ sections:
       # Incense sticks made from temple flowers and herbs
 
 
-      The name 'BAALA' has been conceptualized to connect offerings with the
-      product which is peace, tranquility, serenity, and international in
-      nature. The product is non-chemical, non-pollutant, genuine,
-      bio-degradable, charcoal free and eco-friendly. Safe for humans.
+      The product is non-chemical, non-pollutant, genuine, bio-degradable,
+      charcoal free and eco-friendly. Safe for humans.
     actions:
       - title: See all items
         url: /store
