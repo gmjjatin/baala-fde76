@@ -1,5 +1,5 @@
 ---
-title: Hawan Samagri
+title: BAALA HERBAL
 layout: category
 order: 1
 seo:
