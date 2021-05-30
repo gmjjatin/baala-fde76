@@ -48,8 +48,8 @@ sections:
           name: lISA mATHEWS
           location: 'nEW DELHI, iNDIA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          Well I'll be d*mned. These incense sticks really ARE greener than any
+          of my recruits.
   - type: promotion_section
     section_id: promotion_section
     title: Discover new products
