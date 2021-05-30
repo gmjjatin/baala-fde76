@@ -38,7 +38,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: pRASHANT DEo
           location: 'MUMBAI, iNDIA'
         text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
