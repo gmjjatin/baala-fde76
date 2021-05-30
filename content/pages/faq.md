@@ -62,7 +62,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: '226 Block 2, Rohini E, Delhi, India, 110063'
-    phone: +1-202-555-0112
+    phone: +91-8851-863-888
     email: hello.baala@gmail.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
