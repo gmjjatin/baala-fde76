@@ -41,9 +41,8 @@ sections:
           name: pRASHANT DEo
           location: 'MUMBAI, iNDIA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          I didn't know the Baala guys were into herbs as well! How beautiful is
+          that Baala floral sticks. I'm just going to buy 'em.
       - author:
           name: lISA mATHEWS
           location: 'nEW DELHI, iNDIA'
