@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '60'
 title: Chandan - Agarbatti
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.58.jpeg
