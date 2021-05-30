@@ -15,7 +15,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love nature
+      - title: We love incense sticks
         description: >
           Now THAT is true, but we love creating incense sticks even more. We
           talk about it on our blog, like, [a lot](http://bit.ly/2YA6999). We
