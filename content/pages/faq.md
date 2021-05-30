@@ -53,7 +53,8 @@ sections:
           A: We create them with heart and intellect.
 
 
-          \<br/>
+
+
 
 
           Q: Why did you build Baala?
