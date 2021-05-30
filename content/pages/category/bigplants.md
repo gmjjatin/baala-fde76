@@ -1,5 +1,5 @@
 ---
-title: Baala Floral
+title: Hawan Floral
 layout: category
 order: 1
 seo:
