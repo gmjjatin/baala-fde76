@@ -73,7 +73,7 @@ sections:
           A: Have you been here? It’s beaaautiful!
 
 
-          \<br\>
+          <br>
 
 
           Q: What’s the meaning of life?
