@@ -46,9 +46,7 @@ sections:
       - author:
           name: lISA mATHEWS
           location: 'nEW DELHI, iNDIA'
-        text: >-
-          Well I'll be d*mned. These incense sticks really ARE greener and smell
-          nice.
+        text: These incense sticks really ARE greener and smell nice.
   - type: promotion_section
     section_id: promotion_section
     title: Discover new products
