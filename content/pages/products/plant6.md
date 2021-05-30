@@ -2,7 +2,7 @@
 layout: product
 id: '6'
 price: '100.00'
-title: B
+title: Bambol
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.50.jpeg
 default_original_image: images/plant6-lg.jpg
