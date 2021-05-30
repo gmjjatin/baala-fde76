@@ -16,7 +16,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Know about us
-    subtitle: from $149.99
+    subtitle: Our story
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
