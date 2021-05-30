@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '120'
-title: Gulaab - Premium
+title: Gulaab - Agar
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
