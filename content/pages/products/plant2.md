@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '2'
-price: '99.00'
+price: '60'
 title: Lavender - Agarbatti
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.58 (1).jpeg
