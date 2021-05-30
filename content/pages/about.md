@@ -11,7 +11,7 @@ sections:
       The name BAALA has been conceptualised to connect offerings with the
       product which is peace, tranquility, serenity and international in nature.
       The product is non-chemical, non-pollutant, genuine, bio-degradable,
-      charcoal free and eco-friendly. Safe for human
+      charcoal free and eco-friendly. Safe for humans.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
