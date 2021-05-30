@@ -46,7 +46,7 @@ sections:
           store using this for sure.
       - author:
           name: lISA mATHEWS
-          location: 'VA, USA'
+          location: 'nEW DELHI, iNDIA'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
