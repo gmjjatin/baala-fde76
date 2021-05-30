@@ -53,12 +53,6 @@ sections:
           A: We create them with heart and intellect.
 
 
-
-
-
-
-
-
           Q: Why did you build Baala?
 
 
@@ -76,6 +70,13 @@ sections:
 
 
           A: Have you been here? It’s beaaautiful!
+
+
+
+
+          \<br>
+
+
 
 
           Q: What’s the meaning of life?
