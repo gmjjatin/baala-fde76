@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '6'
-price: '100.00'
+price: '160'
 title: Hawan samagri - Dhoop
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.50.jpeg
