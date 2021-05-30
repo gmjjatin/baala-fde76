@@ -53,7 +53,7 @@ sections:
           A: We create them with heart and intellect.
 
 
-          \<br>
+          <br>
 
 
           Q: Why did you build Baala?
@@ -62,7 +62,7 @@ sections:
           A: For a better world. Plus, we love the Indian culture and religion.
 
 
-          \<br>
+          <br>
 
 
           Q: How many people work at Baala?
@@ -72,7 +72,7 @@ sections:
           Baala might be a robot, though.
 
 
-          \<br>
+          <br>
 
 
           Q: Why is Baala based in New Delhi City?
