@@ -50,7 +50,13 @@ sections:
           Q: Why is Baala incense sticks so beautiful?
 
 
-          A: We create them with heart and intellect.\<br>
+          A: We create them with heart and intellect.
+
+
+
+
+
+
 
 
           Q: Why did you build Baala?
