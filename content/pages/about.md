@@ -38,7 +38,7 @@ sections:
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Discover new products
     subtitle: from $149.99
     image: >-
       images/composition-with-incense-sticks-diffuser-candles-books-table-interior-room
