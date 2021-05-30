@@ -11,7 +11,7 @@ sections:
       # Incense sticks made from temple flowers and herbs
 
 
-      The product is non-chemical, non-pollutant, genuine, bio-degradable,
+      The products are non-chemical, non-pollutant, genuine, bio-degradable,
       charcoal free and eco-friendly. Safe for humans.
     actions:
       - title: See all items
