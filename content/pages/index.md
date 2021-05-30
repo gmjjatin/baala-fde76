@@ -7,11 +7,14 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Incense sticks made from temple flowers and herbs
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      The name 'BAALA' has been conceptualized to connect offerings with the
+      product which is peace, tranquility, serenity, and international in
+      nature. The product is non-chemical, non-pollutant, genuine,
+      bio-degradable, charcoal free and eco-friendly. Safe for humans.
     actions:
       - title: See all items
         url: /store
