@@ -51,6 +51,7 @@ sections:
 
 
           A: We create them with heart and intellect.
+          
 
 
           Q: Why did you build Baala?
