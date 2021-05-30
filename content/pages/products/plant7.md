@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '7'
-price: '18.90'
+price: '160'
 title: Ayurvedic - Dhoop
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.51 (1).jpeg
