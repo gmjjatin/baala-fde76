@@ -1,5 +1,5 @@
 ---
-title: Hawan Floral
+title: Hawan Samagri
 layout: category
 order: 1
 seo:
