@@ -21,7 +21,7 @@ sections:
     background_image: /images/leaf.svg
     cta:
       title: Discover
-      url: /store
+      url: /about
       style: secondary
       arrow: true
 seo:
