@@ -7,13 +7,11 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: We are Baala
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >
+      The name BAALA has been conceptualised to connect offerings with the
+      product which is peace, tranquility, serenity and international in nature.
+      The product is non-chemical, non-pollutant, genuine, bio-degradable,
+      charcoal free and eco-friendly. Safe for human
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
