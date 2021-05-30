@@ -1,5 +1,5 @@
 ---
-title: BAALA HERBAL
+title: BAALA Floral
 layout: category
 order: 1
 seo:
