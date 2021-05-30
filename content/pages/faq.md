@@ -62,11 +62,17 @@ sections:
           A: For a better world. Plus, we love the Indian culture and religion.
 
 
+          \<br>
+
+
           Q: How many people work at Baala?
 
 
           A: Not a lot! We’re a small, bootstrapped team of eight human beings.
           Baala might be a robot, though.
+
+
+          \<br>
 
 
           Q: Why is Baala based in New Delhi City?
