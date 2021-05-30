@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Baala Floral
 layout: category
 order: 1
 seo:
