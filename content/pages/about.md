@@ -31,7 +31,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Discover new products
-    subtitle: from $60
+    subtitle: from 60
     image: >-
       images/composition-with-incense-sticks-diffuser-candles-books-table-interior-room
       (2).jpg
