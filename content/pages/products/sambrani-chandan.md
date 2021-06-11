@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '9'
-price: '60'
+price: '40'
 title: Lobaan Chandan - herbal
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.56 (1).jpeg
