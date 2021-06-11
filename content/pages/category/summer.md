@@ -3,14 +3,14 @@ title: cones
 layout: category
 order: 4
 seo:
-  title: Summer plants
+  title: cones
   description: This is the store page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Summer plants
+      value: cones
       keyName: property
     - name: 'og:description'
       value: This is the store page
@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Summer plants
+      value: cones
     - name: 'twitter:description'
       value: This is the store page
     - name: 'twitter:image'
