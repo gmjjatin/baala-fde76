@@ -8,7 +8,7 @@ default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.56 (1).jpeg
 default_original_image: images/plant9-lg.jpg
 featured: true
 order: 10
-category: content/pages/category/summer.md
+category: content/pages/category/europe.md
 seo:
   title: Lobaan Chandan - herbal
   description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci'
