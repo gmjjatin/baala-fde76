@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: sambrani sticks
 layout: category
 order: 3
 seo:
