@@ -4,7 +4,7 @@ id: '9'
 price: '400.00'
 title: Fusce sagittis
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
-default_thumbnail_image: images/plant9.jpg
+default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.56 (1).jpeg
 default_original_image: images/plant9-lg.jpg
 featured: true
 order: 9
