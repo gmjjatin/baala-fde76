@@ -2,7 +2,7 @@
 layout: product
 id: '8'
 price: '40'
-title: Devdhumi - Premium
+title: Brahmastra - Premium
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/plant8.jpg
 default_original_image: images/plant8-lg.jpg
