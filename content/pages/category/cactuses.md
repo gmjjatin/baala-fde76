@@ -3,14 +3,14 @@ title: Baala Herbal
 layout: category
 order: 2
 seo:
-  title: Cactuses
+  title: Baala Herbal
   description: This is the store page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Cactuses
+      value: Baala Herbal
       keyName: property
     - name: 'og:description'
       value: This is the store page
@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cactuses
+      value: Baala Herbal
     - name: 'twitter:description'
       value: This is the store page
     - name: 'twitter:image'
