@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '8'
-price: '50.00'
+price: '40'
 title: Devdhumi - Premium
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/plant8.jpg
