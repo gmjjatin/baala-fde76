@@ -3,7 +3,7 @@ layout: product
 id: '3'
 price: '60'
 title: Chandan - Agarbatti
-description: 'Nulla non pretium metus, vitae finibus lectus.'
+description: '25 sticks'
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.58.jpeg
 default_original_image: images/plant3-lg.jpg
 featured: true
