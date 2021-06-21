@@ -3,7 +3,7 @@ layout: product
 id: '9'
 price: '60'
 title: Water Lilly Aroma
-description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
+description: '20 sticks'
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.56 (1).jpeg
 default_original_image: images/plant9-lg.jpg
 featured: true
