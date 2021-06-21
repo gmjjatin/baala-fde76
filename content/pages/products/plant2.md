@@ -3,7 +3,7 @@ layout: product
 id: '2'
 price: '60'
 title: Lavender - Agarbatti
-description: Suspendisse efficitur eget erat sit amet efficitur.
+description: 35 sticks
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.58 (1).jpeg
 default_original_image: images/plant2-lg.jpg
 order: 2
