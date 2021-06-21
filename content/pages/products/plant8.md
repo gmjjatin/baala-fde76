@@ -3,7 +3,7 @@ layout: product
 id: '8'
 price: '40'
 title: Brahmastra - Premium
-description: In cursus sagittis eros non congue.
+description: 10 cones
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.49.jpeg
 default_original_image: images/plant8-lg.jpg
 order: 8
