@@ -11,7 +11,7 @@ order: 10
 category: content/pages/category/europe.md
 seo:
   title: Lobaan Chandan - herbal
-  description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci'
+  description: '25 pcs'
   extra:
     - name: 'og:type'
       value: website
