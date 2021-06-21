@@ -11,7 +11,7 @@ order: 10
 category: content/pages/category/europe.md
 seo:
   title: Lobaan Chandan - herbal
-  description: '25 pcs'
+  description: '25 sticks'
   extra:
     - name: 'og:type'
       value: website
