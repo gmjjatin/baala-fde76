@@ -3,7 +3,7 @@ layout: product
 id: '4'
 price: '60'
 title: Neem Dhara - Mosquito repellent
-description: Maecenas pretium blandit ex id lobortis.
+description: 25 sticks
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.57.jpeg
 default_original_image: images/plant4-lg.jpg
 order: 4
