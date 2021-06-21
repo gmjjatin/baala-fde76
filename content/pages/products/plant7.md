@@ -3,7 +3,7 @@ layout: product
 id: '7'
 price: '160'
 title: Ayurvedic - Dhoop
-description: Fusce sed tortor id diam rhoncus accumsan.
+description: 25 sticks
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.51 (1).jpeg
 default_original_image: images/plant7-lg.jpg
 order: 7
