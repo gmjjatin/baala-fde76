@@ -3,7 +3,7 @@ layout: product
 id: '6'
 price: '160'
 title: Hawan samagri - Dhoop
-description: Cras molestie faucibus ipsum ut vulputate.
+description: 35 sticks
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.50.jpeg
 default_original_image: images/plant6-lg.jpg
 order: 6
