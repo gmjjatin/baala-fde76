@@ -4,8 +4,7 @@ id: '5'
 price: '120'
 title: Chandan - Agarbatti
 description: >-
-  Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
-  volutpat massa dolor id purus.
+  25 sticks
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.50 (2).jpeg
 default_original_image: images/plant5-lg.jpg
 featured: true
