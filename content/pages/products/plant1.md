@@ -4,9 +4,7 @@ id: '1'
 price: '120'
 title: Gulaab - Agarbatti
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  25 sticks
 default_thumbnail_image: images/WhatsApp Image 2021-03-14 at 11.35.50 (1).jpeg
 default_original_image: images/plant1-lg.jpg
 featured: true
