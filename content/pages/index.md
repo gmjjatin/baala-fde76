@@ -61,17 +61,17 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
-  description: The preview of the Planty theme
+  title: Baala
+  description: The preview of the Baala
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Baala
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: The preview of the Baala
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
@@ -80,9 +80,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planty Theme
+      value: Baala
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: The preview of the Baala
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
