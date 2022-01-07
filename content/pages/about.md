@@ -17,11 +17,7 @@ sections:
     bulletpoints:
       - title: We love incense sticks
         description: >
-          Now THAT is true, but we love creating incense sticks in an
-          environment-friendly way even more. We talk about it on our blog,
-          like, [a lot](http://bit.ly/2YA6999). We often craft live demos of how
-          the incense sticks are made from temple flowers. We believe in "What
-          comes from temples goes back to them".
+          ".
         image: images/nan_talk.jpg
       - title: We think 3Rs are the future
         description: >
