@@ -21,8 +21,7 @@ sections:
         image: images/nan_talk.jpg
       - title: Environment Friendly 
         description: >
-          We believe in Reuse, Recycle and Reduce. And we endeavour to make the
-          world greener.
+         Baala understands the value of protecting the environment and pollution. We as a team are responsible for giving the best to the next generation. Our range of products goes through the safest hands and thus Baala becomes the obvious choice for many..
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
