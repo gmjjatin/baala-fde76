@@ -28,7 +28,7 @@ sections:
           pollution. We as a team are responsible for giving the best to the
           next generation. Our range of products goes through the safest hands
           and thus Baala becomes the obvious choice for many.
-        image: images/Agarbatti Shoot 2-03-92f96fd9.jpg
+        image: images/Agarbatti Shoot 2-02.jpg
   - type: promotion_section
     section_id: promotion_section
     title: Discover new products
