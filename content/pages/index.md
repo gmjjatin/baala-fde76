@@ -8,7 +8,7 @@ sections:
     background_image: images/bursera-graveolens-spanish-holy-tree-plant-water-rocks.jpg
     background_image_opacity: 65
     content: >
-      # Incense sticks made from temple flowers and herbs
+      # Pure Incense Pure Magic
 
 
       The products are non-chemical, non-pollutant, genuine, bio-degradable,
