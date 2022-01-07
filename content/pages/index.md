@@ -28,7 +28,7 @@ sections:
     featured_categories:
       - content/pages/category/bigplants.md
       - content/pages/category/cactuses.md
-        - type: bulletpoints_section
+ - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
       - title: We love incense sticks
