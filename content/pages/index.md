@@ -25,7 +25,7 @@ sections:
       - content/pages/products/plant7.md
   - type: bulletpoints_section
     section_id: bulletpoints_section
-    featured_categories:
+    bulletpoints_section:
       - content/pages/category/bigplants.md
       - content/pages/category/cactuses.md
   - type: testimonials_section
