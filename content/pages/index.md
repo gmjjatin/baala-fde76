@@ -32,7 +32,7 @@ sections:
           The selection of ingredients, herbs, and the right mix of essence
           creates Baala products. What you hold in your hand is pure bliss and
           what you light is pure experience.
-        image: images/Agarbatti Shoot 2-03.jpg
+        image: images/Agarbatti Shoot 2-06.jpg
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
