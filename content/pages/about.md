@@ -17,11 +17,17 @@ sections:
     bulletpoints:
       - title: We love incense sticks
         description: >
-          Incense is what matters Baala has created a niche in terms of purity. The selection of ingredients, herbs, and the right mix of essence creates Baala products. What you hold in your hand is pure bliss and what you light is pure experience.
-        image: images/nan_talk.jpg
-      - title: Environment Friendly 
+          Incense is what matters Baala has created a niche in terms of purity.
+          The selection of ingredients, herbs, and the right mix of essence
+          creates Baala products. What you hold in your hand is pure bliss and
+          what you light is pure experience.
+        image: images/Agarbatti Shoot 2-17.jpg
+      - title: Environment Friendly
         description: >
-         Baala understands the value of protecting the environment and pollution. We as a team are responsible for giving the best to the next generation. Our range of products goes through the safest hands and thus Baala becomes the obvious choice for many.
+          Baala understands the value of protecting the environment and
+          pollution. We as a team are responsible for giving the best to the
+          next generation. Our range of products goes through the safest hands
+          and thus Baala becomes the obvious choice for many.
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
