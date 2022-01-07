@@ -37,7 +37,7 @@ sections:
           location: 'MUMBAI, iNDIA'
         text: >-
           I didn't know the Baala guys were into herbs as well! How beautiful is
-          that Baala floral sticks. I'm just going to buy 'em.
+          that Baala floral sticks.
       - author:
           name: lISA mATHEWS
           location: 'nEW DELHI, iNDIA'
