@@ -28,6 +28,13 @@ sections:
     featured_categories:
       - content/pages/category/bigplants.md
       - content/pages/category/cactuses.md
+        - type: bulletpoints_section
+    section_id: bulletpoints_section
+    bulletpoints:
+      - title: We love incense sticks
+        description: >
+          Incense is what matters Baala has created a niche in terms of purity. The selection of ingredients, herbs, and the right mix of essence creates Baala products. What you hold in your hand is pure bliss and what you light is pure experience.
+        image: images/nan_talk.jpg
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
