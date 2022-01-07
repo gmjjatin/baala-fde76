@@ -17,8 +17,7 @@ sections:
     bulletpoints:
       - title: We love incense sticks
         description: >
-          Incense is what matters
-Baala has created a niche in terms of purity. The selection of ingredients, herbs, and the right mix of essence creates Baala products. What you hold in your hand is pure bliss and what you light is pure experience.
+          Incense is what matters Baala has created a niche in terms of purity. The selection of ingredients, herbs, and the right mix of essence creates Baala products. What you hold in your hand is pure bliss and what you light is pure experience.
         image: images/nan_talk.jpg
       - title: We think 3Rs are the future
         description: >
