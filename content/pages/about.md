@@ -17,7 +17,7 @@ sections:
     bulletpoints:
       - title: We love incense sticks
         description: >
-          ".
+          
         image: images/nan_talk.jpg
       - title: We think 3Rs are the future
         description: >
