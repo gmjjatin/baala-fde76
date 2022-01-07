@@ -7,12 +7,7 @@ sections:
     section_id: hero_section
     background_image: images/bursera-graveolens-spanish-holy-tree-plant-water-rocks.jpg
     background_image_opacity: 65
-    content: >
-      # Pure Incense Pure Magic
-
-
-      The products are non-chemical, non-pollutant, genuine, bio-degradable,
-      charcoal free and eco-friendly. Safe for humans.
+    content: "# Pure Incense Pure Magic\n\nWe have created incense products keeping in mind the spiritual essence of our country and the age-old practice\_of meditation and the natural ways of health keeping. Hence the base is ayurvedic and natural herbs. That's why we call Baala a Divine Connection.\n"
     actions:
       - title: See all items
         url: /store
