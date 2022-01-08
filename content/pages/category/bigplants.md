@@ -1,5 +1,5 @@
 ---
-title: P
+title: Premium dhoop sticks
 layout: category
 order: 1
 seo:
