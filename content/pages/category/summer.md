@@ -1,5 +1,5 @@
 ---
-title: FLORAL CONES
+title: FLORAL BAMBOOLESS
 layout: category
 order: 4
 seo:
