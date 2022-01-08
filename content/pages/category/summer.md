@@ -1,5 +1,5 @@
 ---
-title: cones
+title: FLORAL CONES
 layout: category
 order: 4
 seo:
