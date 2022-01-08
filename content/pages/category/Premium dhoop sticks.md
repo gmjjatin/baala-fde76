@@ -1,5 +1,5 @@
 ---
-title: Premium dhoop sticks
+title: sambrani cup
 layout: category
 order: 2
 seo:
