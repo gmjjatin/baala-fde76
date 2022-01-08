@@ -1,5 +1,5 @@
 ---
-title: BAALA Floral
+title: Small dhoop sticks Floral
 layout: category
 order: 1
 seo:
