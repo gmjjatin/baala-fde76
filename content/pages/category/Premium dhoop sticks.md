@@ -4,7 +4,7 @@ layout: category
 order: 2
 seo:
   title: Premium dhoop sticks
-  description: This is the store page
+  description: This is the premium dhoop sticks page
   extra:
     - name: 'og:type'
       value: website
@@ -13,7 +13,7 @@ seo:
       value: Premium dhoop sticks
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: This is the premium dhoop sticks page
       keyName: property
     - name: 'og:image'
       value: images/plant1-lg.jpg
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Premium dhoop sticks
     - name: 'twitter:description'
-      value: This is the store page
+      value: This is the premium dhoop sticks page
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
