@@ -1,5 +1,5 @@
 ---
-title: BAALA Floral
+title: normal agar
 layout: category
 order: 1
 seo:
