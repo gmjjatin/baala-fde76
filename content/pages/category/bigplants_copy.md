@@ -1,5 +1,5 @@
 ---
-title: normal agar
+title: normal agarbatti
 layout: category
 order: 1
 seo:
