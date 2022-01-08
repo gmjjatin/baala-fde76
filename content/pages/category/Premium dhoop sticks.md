@@ -3,14 +3,14 @@ title: Premium dhoop sticks
 layout: category
 order: 2
 seo:
-  title: Big plants
+  title: Premium dhoop sticks
   description: This is the store page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Big plants
+      value: Premium dhoop sticks
       keyName: property
     - name: 'og:description'
       value: This is the store page
@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Big plants
+      value: Premium dhoop sticks
     - name: 'twitter:description'
       value: This is the store page
     - name: 'twitter:image'
