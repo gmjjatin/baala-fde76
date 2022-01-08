@@ -1,7 +1,7 @@
 ---
-title: BAALA Floral
+title: Premium dhoop sticks
 layout: category
-order: 1
+order: 2
 seo:
   title: Big plants
   description: This is the store page
