@@ -13,6 +13,7 @@ sections:
       - content/pages/products/plant3.md
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
+      - content/pages/products/product-ibbjcdu32.md
   - type: promotion_section
     section_id: promotion_section
     title: Know about us
