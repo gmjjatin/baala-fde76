@@ -1,5 +1,5 @@
 ---
-title: sambrani sticks
+title: Floral cones
 layout: category
 order: 3
 seo:
