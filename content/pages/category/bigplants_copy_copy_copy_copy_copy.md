@@ -1,5 +1,5 @@
 ---
-title: Small dhoop sticks Floral
+title: Small dhoop sticks
 layout: category
 order: 1
 seo:
