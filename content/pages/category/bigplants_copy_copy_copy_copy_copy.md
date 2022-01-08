@@ -4,7 +4,7 @@ layout: category
 order: 1
 seo:
   title: Small dhoop sticks
-  description: This is the store page
+  description: This is the small dhoop sticks page
   extra:
     - name: 'og:type'
       value: website
@@ -13,7 +13,7 @@ seo:
       value: Small dhoop sticks
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: This is the small dhoop sticks page
       keyName: property
     - name: 'og:image'
       value: images/plant1-lg.jpg
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Small dhoop sticks
     - name: 'twitter:description'
-      value: This is the store page
+      value: This is the small dhoop sticks page
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
